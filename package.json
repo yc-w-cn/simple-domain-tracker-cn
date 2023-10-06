@@ -1,0 +1,11 @@
+{
+  "name": "@simple-domain-tracker-cn/root",
+  "version": "0.0.1",
+  "description": "Simple Domain Tracker - CN",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yuchen Wang",
+  "license": "MIT"
+}
