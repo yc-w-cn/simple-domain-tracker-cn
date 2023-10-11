@@ -1,6 +1,6 @@
 {
   "name": "@simple-domain-tracker-cn/web",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@simple-domain-tracker-cn/components": "workspace:*",
     "react": "^18",
     "react-dom": "^18",
     "next": "13.5.4"

@@ -1,0 +1,8 @@
+{
+  "references": [
+    { "path": "apps/dashboard" },
+    { "path": "apps/data-center" },
+    { "path": "apps/web" },
+    { "path": "packages/components" },
+  ]
+}
